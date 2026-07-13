@@ -1,6 +1,16 @@
 # Overview
 This mod adds colorful glowing trails to trains as they drive around
 
+ <p align="center">
+  <img src="images/1.png" width="31%" />
+  <img src="images/2.png" width="31%" />
+  <img src="images/3.png" width="31%" />
+</p>
+<p align="center">
+  <img src="images/4.png" width="48%" />
+  <img src="images/5.png" width="48%" />
+</p>
+
 ----------
 # Features
 - Color and Glow can be independently enabled or disabled
