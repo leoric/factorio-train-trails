@@ -1,4 +1,11 @@
 ---------------------------------------------------------------------------------------------------
+Version: 1.1.2
+Date: 2026-07-12
+  Changes:
+    - Updated to Factorio 2.1. No code changes were required. Note: 2.1 changed draw_light() to
+      produce lower-resolution gradient lights, and added an optional light_mode parameter to
+      draw_animation()/draw_sprite() that this mod doesn't currently use.
+---------------------------------------------------------------------------------------------------
 Version: 1.1.1
 Date: 2025-01-14
   Changes:
